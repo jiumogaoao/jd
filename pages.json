@@ -3,10 +3,18 @@
 		{
 			"path": "pages/index/index",
 			"style": {
-				"navigationBarTitleText": "uni-app"
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "旅划算·吃喝玩乐推荐"
 			}
 		}
-	],
+	    ,{
+            "path" : "pages/detail/detail",
+            "style": {
+            	"navigationStyle": "custom",
+            	"navigationBarTitleText": "旅划算·吃喝玩乐推荐"
+            }
+        }
+    ],
 	"globalStyle": {
 		"navigationBarTextStyle": "black",
 		"navigationBarTitleText": "uni-app",
