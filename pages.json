@@ -14,6 +14,13 @@
             	"navigationBarTitleText": "旅划算·吃喝玩乐推荐"
             }
         }
+        ,{
+            "path" : "pages/order/order",
+            "style": {
+            	"navigationStyle": "custom",
+            	"navigationBarTitleText": "旅划算·吃喝玩乐推荐"
+            }
+        }
     ],
 	"globalStyle": {
 		"navigationBarTextStyle": "black",
